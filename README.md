@@ -1,5 +1,6 @@
 ## Hi there 👋
 
-## 🐱 Cat of the Day
+## 🐱 Random Cat
 
 ![Random Cat](https://cataas.com/cat)
+
