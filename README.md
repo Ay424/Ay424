@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-## 🐱 Daily Random Cat
+## 🐱 Random Cat:
 
-<img src="https://cataas.com/cat?date=2025-10-01" width="300"/>
-
-
+<img src="https://cataas.com/cat?random" width="300"/>
